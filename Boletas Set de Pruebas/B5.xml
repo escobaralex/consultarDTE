@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<DTE version="1.0">
+  <Documento>
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>39</TipoDTE>
+        <Folio>5</Folio>
+        <FchEmis>2015-07-08</FchEmis>
+        <IndServicio>3</IndServicio>
+        <IndMntNeto>0</IndMntNeto>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>78768420-3</RUTEmisor>
+        <RznSocEmisor>CENTAURO REPUESTOS LTDA.</RznSocEmisor>
+        <GiroEmisor>REPUESTOS</GiroEmisor>
+        <DirOrigen>ANDRES BELLO 6695</DirOrigen>
+        <CmnaOrigen>LA GRANJA</CmnaOrigen>
+        <CiudadOrigen>SANTIAGO</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>66666666-6</RUTRecep>
+        <CdgIntRecep>1</CdgIntRecep>
+        <RznSocRecep>Cliente Generico</RznSocRecep>
+        <DirRecep>Direccion Generico</DirRecep>
+        <CmnaRecep>Comuna Generico</CmnaRecep>
+        <CiudadRecep>Ciudad Generico</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntTotal>20280</MntTotal>
+        <TotalPeriodo>20280</TotalPeriodo>
+        <SaldoAnterior>0</SaldoAnterior>
+        <VlrPagar>20280</VlrPagar>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <IndExe>0</IndExe>
+      <NmbItem>combo Italiano + bebida</NmbItem>
+      <QtyItem>12</QtyItem>
+      <UnmdItem>UNI</UnmdItem>
+      <PrcItem>1690</PrcItem>
+      <MontoItem>20280</MontoItem>
+    </Detalle>
+  </Documento>
+</DTE>
